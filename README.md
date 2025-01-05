@@ -13,14 +13,15 @@ URL Finder is a simple tool that helps you fetch all the URLs from the Wayback M
 
 Follow the steps below to install and set up the URL Finder tool.
 
-### Step 1: Clone the Repository
+```bash
+
+Step 1: Clone the Repository
 
 Clone the repository to your local machine using the following command:
 
-```bash
 git clone https://github.com/sourabhtomar/urlfinder.git
 
-### Step 2: Navigate to the urlfinder Directory
+ Step 2: Navigate to the urlfinder Directory
 
 Go to the urlfinder directory:
 
