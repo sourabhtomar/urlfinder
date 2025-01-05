@@ -20,7 +20,7 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/sourabhtomar/urlfinder.git
 
-Step 2: Navigate to the urlfinder Directory
+### Step 2: Navigate to the urlfinder Directory
 
 Go to the urlfinder directory:
 
